@@ -27,7 +27,7 @@ const aURL = [
     "1"
   ],
 
-  ["2196F3", "HotSpot 1", "https://pi-star-1.local/", "1"],
+  ["2196F3", "HotSpot 1", "https://hotspot-1.local/", "1"],
   [
     "2196F3",
     "Forecast",
@@ -87,7 +87,7 @@ const aIMG = [
   ],
   [
     "",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/20250171401-20250171756-GOES16-ABI-CONUS-GEOCOLOR-625x375.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/GEOCOLOR/GOES16-CONUS-GEOCOLOR-625x375.gif",
   ],
   [
     "",
